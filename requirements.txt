@@ -1,0 +1,4 @@
+PyYAML==5.4.1
+requests==2.25.1
+schedule==1.0.0
+selenium==3.141.0

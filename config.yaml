@@ -1,0 +1,19 @@
+# config
+
+# interval in mins
+interval: 5
+
+bbdc:
+  username: "your IC"
+  password: "your password"
+
+chromedriver:
+  host: http://localhost:4444
+
+booking:
+  want_sessions: ["1", "7", "8"]
+
+telegram:
+  enabled: True
+  token: "16857xxxxx:AAFJ5A0uP5Mo78tL1rxxxxxxxxxxxx"
+  chat_id: "-5922xxxxx"
