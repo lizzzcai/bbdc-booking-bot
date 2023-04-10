@@ -5,7 +5,7 @@ Program help to check the available slots in BBDC (Bukit Batok Driving Centre), 
  "banner")
 
 # Note
-The program is working on macOS Big Surf
+* **2023 April**: The program is not working with the [new BBDC page](https://booking.bbdc.sg/) (find details [here](https://github.com/lizzzcai/bbdc-booking-bot/issues/1#issuecomment-1501359385))
 
 # Prerequisites
 * Python3
